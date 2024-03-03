@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calcular</string>
+    <string name="Seno">SENO</string>
+    <string name="Coseno">COSENO</string>
+    <string name="Hipotenusa">HIPOTENUSA</string>
+
+</resources>
